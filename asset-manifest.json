@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/archer/static/js/app.a4805485.chunk.js",
-    "app.js.map": "/archer/static/js/app.a4805485.chunk.js.map",
+    "app.js": "/archer/static/js/app.67a43c7e.chunk.js",
+    "app.js.map": "/archer/static/js/app.67a43c7e.chunk.js.map",
     "runtime~app.js": "/archer/static/js/runtime~app.e8a62508.js",
     "runtime~app.js.map": "/archer/static/js/runtime~app.e8a62508.js.map",
-    "static/js/2.49decbdc.chunk.js": "/archer/static/js/2.49decbdc.chunk.js",
-    "static/js/2.49decbdc.chunk.js.map": "/archer/static/js/2.49decbdc.chunk.js.map",
+    "static/js/2.d0f2ae8c.chunk.js": "/archer/static/js/2.d0f2ae8c.chunk.js",
+    "static/js/2.d0f2ae8c.chunk.js.map": "/archer/static/js/2.d0f2ae8c.chunk.js.map",
     "favicon-16.png": "/archer/favicon-16.png",
     "favicon-32.png": "/archer/favicon-32.png",
     "favicon.ico": "/archer/favicon.ico",
     "index.html": "/archer/index.html",
     "manifest.json": "/archer/manifest.json",
     "serve.json": "/archer/serve.json",
-    "static/js/2.49decbdc.chunk.js.LICENSE.txt": "/archer/static/js/2.49decbdc.chunk.js.LICENSE.txt"
+    "static/js/2.d0f2ae8c.chunk.js.LICENSE.txt": "/archer/static/js/2.d0f2ae8c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.e8a62508.js",
-    "static/js/2.49decbdc.chunk.js",
-    "static/js/app.a4805485.chunk.js"
+    "static/js/2.d0f2ae8c.chunk.js",
+    "static/js/app.67a43c7e.chunk.js"
   ]
 }
