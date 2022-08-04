@@ -1,2 +1,0 @@
-(this.webpackJsonp=this.webpackJsonp||[]).push([[0],{44:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return o}));e(92);var r=e(5),c=(e(39),e(35));function o(){return Object(c.jsx)("h2",{children:" HI THERE "})}r.default.create({container:{flex:1,backgroundColor:"#fff",alignItems:"center",justifyContent:"center"}})},67:function(t,n,e){t.exports=e(91)}},[[67,1,2]]]);
-//# sourceMappingURL=app.986076d6.chunk.js.map
