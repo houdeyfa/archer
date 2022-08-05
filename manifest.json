@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "sample",
-  "short_name": "sample",
+  "name": "archery scoring",
+  "short_name": "archery scoring",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "icons": [
