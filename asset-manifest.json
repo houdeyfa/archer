@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/archer/static/js/app.620144b1.chunk.js",
-    "app.js.map": "/archer/static/js/app.620144b1.chunk.js.map",
+    "app.js": "/archer/static/js/app.2c119dd2.chunk.js",
+    "app.js.map": "/archer/static/js/app.2c119dd2.chunk.js.map",
     "runtime~app.js": "/archer/static/js/runtime~app.e8a62508.js",
     "runtime~app.js.map": "/archer/static/js/runtime~app.e8a62508.js.map",
     "static/js/2.44e84497.chunk.js": "/archer/static/js/2.44e84497.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.e8a62508.js",
     "static/js/2.44e84497.chunk.js",
-    "static/js/app.620144b1.chunk.js"
+    "static/js/app.2c119dd2.chunk.js"
   ]
 }
