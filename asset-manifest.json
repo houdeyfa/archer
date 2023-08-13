@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/archer/static/js/main.67624825.js",
+    "main.js": "/archer/static/js/main.c31b4291.js",
     "static/js/345.d28d45f5.js": "/archer/static/js/345.d28d45f5.js",
     "favicon.ico": "/archer/favicon.ico",
     "index.html": "/archer/index.html",
@@ -8,11 +8,11 @@
     "favicon-16.png": "/archer/favicon-16.png",
     "manifest.json": "/archer/manifest.json",
     "serve.json": "/archer/serve.json",
-    "main.67624825.js.map": "/archer/static/js/main.67624825.js.map",
+    "main.c31b4291.js.map": "/archer/static/js/main.c31b4291.js.map",
     "345.d28d45f5.js.map": "/archer/static/js/345.d28d45f5.js.map"
   },
   "entrypoints": [
     "static/js/345.d28d45f5.js",
-    "static/js/main.67624825.js"
+    "static/js/main.c31b4291.js"
   ]
 }
